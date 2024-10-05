@@ -1,0 +1,193 @@
+.bienvenue{
+    background-color: black;
+    padding: 50px;
+    width: 100%;
+}
+
+.liste{
+    font-size: 40px;
+ position: relative;
+ right: -1400px;
+  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.logo{
+    background-image: url("https://tappy.fr/wp-content/uploads/2022/03/AdobeStock_482237689.jpeg");
+height: 50vh;
+padding: 60px;
+width: 100%;
+
+}
+h1{
+    position: relative;
+    top: -50px;
+    right: -150px;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: orange;
+    width: 400px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+.titre{ font-size: 50px;
+    position: relative;
+    right:-900px;
+
+
+}
+#flexbox-ville{
+   
+        display: grid;
+        grid-template-columns: repeat(4,5fr );
+        gap: 30px;
+        position: relative;
+        top: 50px;
+    }
+
+#ville{
+
+        background-size: cover;
+        width: 65%;
+        height: 300px;
+        border: 10px solid white;
+        border-radius: 35px;
+        font-size: 60px;
+        color: white;
+        text-shadow: 0 0 30px black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'pacifico';
+        box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    }
+
+
+    .b1{
+        background-image:url("https://th.bing.com/th/id/OIP.7b4tQnHewRu_F_HJlFA3DQHaF1?rs=1&pid=ImgDetMain");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+      
+     
+    }
+
+
+    .b2{
+        background-image:url("https://th.bing.com/th/id/OIP.7b4tQnHewRu_F_HJlFA3DQHaF1?rs=1&pid=ImgDetMain");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 70vh;
+    }
+
+
+    .b3{
+        background-image:url("https://th.bing.com/th/id/OIP.7b4tQnHewRu_F_HJlFA3DQHaF1?rs=1&pid=ImgDetMain");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+
+    }
+    
+
+    .b4{
+        background-image:url("https://th.bing.com/th/id/OIP.7b4tQnHewRu_F_HJlFA3DQHaF1?rs=1&pid=ImgDetMain");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+
+    }
+
+
+
+    .b5{
+        background-image: url("https://static.vecteezy.com/system/resources/previews/000/683/498/original/two-burgers-black-and-white.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+     }
+
+     .b6{
+        background-image: url("https://static.vecteezy.com/system/resources/previews/000/683/498/original/two-burgers-black-and-white.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+     }
+
+
+
+     .b7{
+        background-image: url("https://static.vecteezy.com/system/resources/previews/000/683/498/original/two-burgers-black-and-white.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+     }
+
+
+     .b8{
+        background-image: url("https://static.vecteezy.com/system/resources/previews/000/683/498/original/two-burgers-black-and-white.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+     }
+     
+     .b9{
+     background-image: url("https://img.freepik.com/vector-gratis/hamburguesa_228765-18.jpg");
+     background-size:cover;
+     background-repeat: no-repeat;
+     height: 90vh;
+    }
+
+    .b10{
+        background-image: url("https://img.freepik.com/vector-gratis/hamburguesa_228765-18.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+       }
+
+
+       .b11{
+        background-image: url("https://img.freepik.com/vector-gratis/hamburguesa_228765-18.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+       }
+
+       .b12{
+        background-image: url("https://img.freepik.com/vector-gratis/hamburguesa_228765-18.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 90vh;
+       }
+
+
+
+.petit{
+
+    background-color: black;
+padding: 60px;
+position: relative;
+top: 80px;
+color: white;
+font-size: 30px;
+
+}
+
+
+.res{
+    position: relative;
+    right: -1000px;
+}
+
+
+.trouver{
+
+    font-size: 50px;
+    color: white;
+}
